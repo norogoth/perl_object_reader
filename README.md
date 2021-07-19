@@ -1,4 +1,4 @@
-# Perl Object Reader
+# Perl Hashifier
 This is a perl script that can read hashes into memory using txt files.
 
 ## Instructions 
