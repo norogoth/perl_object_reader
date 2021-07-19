@@ -30,8 +30,6 @@ Description: A man that looks after sheep and occasionally attempts to act brave
 6. run the script using `perl object_reader.pl`
 7. The script will print your hashmaps to the console.
 
-x-special/nautilus-clipboard
-
 ![example](https://user-images.githubusercontent.com/52639031/126234375-14d74a56-a273-445b-aaa5-8328bb474ca9.png)
 
 
