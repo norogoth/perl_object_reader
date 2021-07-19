@@ -1,0 +1,11 @@
+==
+Name: Doris Peaver
+Race: Elf
+Background: Totem Carver
+Description: An elf who speaks very little.
+
+==
+Name: Jackson
+Race: human
+Background: Shepard
+Description: A man that looks after sheep and occasionally attempts to act bravely in battle.
