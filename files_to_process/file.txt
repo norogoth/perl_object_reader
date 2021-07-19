@@ -5,7 +5,7 @@ Background: Totem Carver
 Description: An elf who speaks very little.
 /==
 
-asdfasdf
+This text will be ignored.
 
 ==
 Name: Jackson
@@ -13,3 +13,4 @@ Race: human
 Background: Shepard
 Description: A man that looks after sheep and occasionally attempts to act bravely in battle.
 /==
+
