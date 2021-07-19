@@ -1,5 +1,5 @@
 # Perl Object Reader
-This is a perl script that can read objects into memory
+This is a perl script that can read hashes into memory using txt files.
 
 ## Instructions 
 
@@ -28,7 +28,7 @@ Description: A man that looks after sheep and occasionally attempts to act brave
 4. End the object with `/==`
 5. repeat steps 2-3 until you have create all your objects.
 6. run the script using `perl object_reader.pl`
-7. The script will print your objects to the console.
+7. The script will print your hashmaps to the console.
 
 x-special/nautilus-clipboard
 
