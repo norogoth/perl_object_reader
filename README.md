@@ -1,4 +1,4 @@
-# perl_object_reader
+# Perl Object Reader
 This is a perl script that can read objects into memory
 
 ## Instructions 
