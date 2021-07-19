@@ -11,4 +11,11 @@ The format you must use to read objects into memory is as follows:
 5. run the script using `perl object_reader.pl`
 6. The script will print your objects to the console.
 
-This script is meant to be extended so that you can use txt files and transfer them to JSON or other useful formats. You can also change what kind of files are read by changing `my $type` to a different format. Further coding will need to be done to accept multiple file formats.
+x-special/nautilus-clipboard
+
+![example](https://user-images.githubusercontent.com/52639031/126234375-14d74a56-a273-445b-aaa5-8328bb474ca9.png)
+
+
+This script is meant to be extended so that you can use txt files and transfer them to JSON or other useful formats. You can also change what kind of files are read by changing `my $type` to a different format. Currently there are two sample files in the "files_to_process" folder. You may add as many files as you like. 
+
+Some minor further coding will need to be done to accept multiple file formats.
