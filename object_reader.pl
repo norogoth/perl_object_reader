@@ -35,7 +35,7 @@ sub getFileType{
 	closedir(DIR);
 }
 
-sub readOneFile {
+sub readOneFile { #lol that turned out to be badly named. Think we need a refactor.
 	# will return on file content, given the file name.
 	my $process_mode = 0; #once system encounters multiple "=" on one line, it will turn on this mode.
 	# Process mode codes
